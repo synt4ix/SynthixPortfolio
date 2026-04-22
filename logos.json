@@ -19,5 +19,12 @@
     "type": "Work",
     "image_url": "https://raw.githubusercontent.com/synt4ix/MyWebsite/main/images/hood_modded_skin_pack.png",
     "added": "2026-04-22"
+  },
+  {
+    "name": "Hood Modded",
+    "description": "",
+    "type": "Logo",
+    "image_url": "https://raw.githubusercontent.com/synt4ix/MyWebsite/main/images/hood_modded.png",
+    "added": "2026-04-22"
   }
 ]
