@@ -54,5 +54,12 @@
     "type": "Logo",
     "image_url": "https://raw.githubusercontent.com/synt4ix/MyWebsite/main/images/the_arab_hood_logo.png",
     "added": "2026-04-22"
+  },
+  {
+    "name": "Hood Modded Logo",
+    "description": "his was a logo for Hood Modded, but it was sadly never released",
+    "type": "Work",
+    "image_url": "https://raw.githubusercontent.com/synt4ix/MyWebsite/main/images/hood_modded_logo.png",
+    "added": "2026-04-22"
   }
 ]
