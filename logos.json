@@ -26,5 +26,12 @@
     "type": "Logo",
     "image_url": "https://raw.githubusercontent.com/synt4ix/MyWebsite/main/images/hood_modded.png",
     "added": "2026-04-22"
+  },
+  {
+    "name": "Open Voice Logo",
+    "description": "",
+    "type": "Logo",
+    "image_url": "https://raw.githubusercontent.com/synt4ix/MyWebsite/main/images/open_voice_logo.png",
+    "added": "2026-04-22"
   }
 ]
