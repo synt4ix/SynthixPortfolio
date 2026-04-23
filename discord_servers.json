@@ -8,5 +8,17 @@
     "role": "contributor",
     "active": true,
     "added": "2026-04-23"
+  },
+  {
+    "guild_name": "Open Voice",
+    "invite_url": "https://discord.gg/pWpp4MZskB",
+    "member_count": 105,
+    "description": "Official Roblox Socialize DISCORD server.",
+    "tags": [
+      "Hangout"
+    ],
+    "role": "owner",
+    "active": true,
+    "added": "2026-04-23"
   }
 ]
